@@ -59,11 +59,11 @@ public class Name {
     }
 
     public String getSurnameParent1() {
-        
+        return this.surnameParent1;
     }
 
     public String getSurnameParent2() {
-        
+        return this.surnameParent2;
     }
 
     public String getSuffixProfessional() {
